@@ -35,7 +35,7 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/purva-phalak) - https://www.linkedin.com/in/vinayak-patil     
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/purva-phalak) - https://www.linkedin.com/in/vinayak-patil-dev 
 
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/purvaphalak) -https://www.hackerrank.com/profile/vinayakpatil3957    
