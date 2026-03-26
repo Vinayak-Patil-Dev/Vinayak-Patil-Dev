@@ -35,13 +35,13 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/purva-phalak) - https://www.linkedin.com/in/vinayak-patil-dev 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-patil-dev ) - https://www.linkedin.com/in/vinayak-patil-dev 
 
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/purvaphalak) -https://www.hackerrank.com/profile/vinayakpatil3957    
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vinayakpatil3957) -https://www.hackerrank.com/vinayakpatil3957    
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/Vinayak-Patil-Dev
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayak-Patil-Dev)- https://github.com/Vinayak-Patil-Dev
 
 
 
